@@ -1,7 +1,6 @@
-Setup file
-##Salmagne 
+##SALMAGNE
 ##Pierre
 
-##pierre.salmagne@gmail.com
+##psalmagne@normandiewebschool.com
 
 ##discord#1234
