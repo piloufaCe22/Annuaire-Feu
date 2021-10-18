@@ -1,6 +1,4 @@
 ##SALMAGNE
 ##Pierre
-
 ##psalmagne@normandiewebschool.com
-
-##discord#1234
+##discord##3570
